@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_new">New</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_help">Help</string>
+</resources>
